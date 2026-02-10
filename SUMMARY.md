@@ -80,3 +80,6 @@
 * [13.5: End-of-Chapter Material](13.5-end-of-chapter-material.md)
 * [Appendix A: Case Listings](appendix-a-case-listings.md)
 * [Page 1](page-1.md)
+* [Page 2](page-2.md)
+* [quiz](quiz.md)
+* [notebooklm\_quiz\_You Have the R](notebooklm_quiz_you-have-the-r.md)
